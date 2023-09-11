@@ -23,6 +23,8 @@ import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
+//Updating the code
+
 public class TestScenario1 {
 	public String username = "cig_phudgi";
     public String accesskey = "8J57qy9Oehdb0z56zHeod0W25ICdH5yZUP2ANjnDv28O3Zto2a";
